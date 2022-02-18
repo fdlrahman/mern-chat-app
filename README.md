@@ -18,7 +18,7 @@
 
 <p>
   Sebelum berinteraksi bersama teman teman di KasiColi (Aplikasi chat online), Biar lebih mudah sebut nya. Kalian harus masukin dulu nama ente nih.
-  Kalo misalnya udah kepaka oleh teman lain gak bisa, maka akan ada pesan: Username has been used, makanya belajar bahasa arab GBLK. عفوا (Maaf).
+  Kalo misalnya udah kepake oleh teman lain maka akan muncul Username has been used itu artinya disuruh cari nama lain, Makanya belajar bahasa arab GBLK. عفوا (Maaf).
   Ya gitu temen temen ya, Jadi kalo udah ada yang menggunakan Rarabthari kamu harus mencari Nama baru.
 </p>
 
@@ -35,7 +35,8 @@
 
 <p>
   Jikalau sedang mengetik maka, akan muncul di setiap browser teman KasiColi kita juga. Bilang si rarabthari sedang mengetik. Gitulah kira kira.
-  Bused kalo lebih dari satu orang gimana, Santai GBLK. Maka akan di join(', '). Nanti lu bikin sendiri aja dah sendiri kalo yang 1 lainnya sedang mengetik GBLK. عفوا (Maaf)
+  Bused kalo lebih dari satu orang gimana, Santai GBLK. Maka akan di join(', '). Nanti lu bikin sendiri aja dah sendiri kalo yang 1 lainnya sedang mengetik GBLK. عفوا (Maaf).
+  <br />
   Nah gini temen" kalo lebih dari satu orang "Rarabthari, Fadel sedang mengetik". Ciee ketik barengan, Eisss ad ada aja antum.
 </p>
 
@@ -59,9 +60,11 @@ npm start || Menjalankan Server React JS
 
 <p>Lah Kalo 3000 sama sama gabisa dong? Tenang GBLK nodejs port nya 3001. Jangan banyak ngomong dah coba aja dulu GBLK<p>
 
+ <p><i>Ditulis oleh Bobon Santosa (CEO OF GBLK)</i></p>
+  
 ## Catatan
-<p><i>Ditulis oleh Bobon Santosa (CEO OF GBLK)</i></p>
 <p>
   "seorang master samurai lebih banyak melakukan kesalahan, daripada samurai pemula."
-  I am fadhlurrahman, the one and only, <strong>Stay Classy!</strong>
+    <br/>
+  <span style="font-size: 14px;">I am fadhlurrahman, the one and only, <strong>Stay Classy!</strong></span>
 </p>
