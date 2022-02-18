@@ -2,8 +2,8 @@
 <p align="center">
   Aplikasi dapat kalian kembangkan, ada beberapa hal yang bisa dikembang kan. Seperti, chat hanya tersimmpan di file json saja. Belum tersimpan ke database. Ada juga fitur
   yang belum terselesaikan seperti nontifikasi, dll. Bisa kalian gunakan sebagai bahan percobaan maupun latihan, Lakukan apa saja sesuai kemauan kalian.
-  Hal yang penting juga terbuat dari <strong>React</strong> sebagai front end dan <strong>Nodejs</strong> sebagai API.
-  *Fun Fact: Dibuat sehari.
+  Hal yang penting juga terbuat dari <strong>React</strong> sebagai front end dan <strong>Nodejs</strong> sebagai API. <br />
+  <i>*Fun Fact: Dibuat sehari.</i>
 </p>
 
 ## Fitur
