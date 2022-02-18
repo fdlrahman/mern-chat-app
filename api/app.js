@@ -57,6 +57,8 @@ io.on("connection", (socket) => {
         fs.writeFileSync("./users.json", JSON.stringify(users), "utf-8");
 
         users = JSON.parse(fs.readFileSync("./users.json", "utf-8"));
+
+        io.emit("reload__user");
     });
 
     socket.on("add__chat", (data) => {
