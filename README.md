@@ -8,7 +8,7 @@
 
 ## Fitur
 ### Lazy Loading
-<img src="./readme_assets/lazy_loading.png" width="100%" />
+<img src="./readme_assets/lazy_loading.PNG" width="100%" />
 
 <p>Sebelum terbuka, maka akan ada loading terlebih dahulu. Ya biasalah,</p>
 
