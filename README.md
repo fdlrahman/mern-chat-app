@@ -1,5 +1,5 @@
-<h1>Mern Aplikasi Chat Online</h1>
-<p>
+<h1 align="center">Mern Aplikasi Chat Online</h1>
+<p align="center">
   Aplikasi dapat kalian kembangkan, ada beberapa hal yang bisa dikembang kan. Seperti, chat hanya tersimmpan di file json saja. Belum tersimpan ke database. Ada juga fitur
   yang belum terselesaikan seperti nontifikasi, dll. Bisa kalian gunakan sebagai bahan percobaan maupun latihan, Lakukan apa saja sesuai kemauan kalian.
   Hal yang penting juga terbuat dari <strong>React</strong> sebagai front end dan <strong>Nodejs</strong> sebagai API.
@@ -13,8 +13,8 @@
 <p>Sebelum terbuka, maka akan ada loading terlebih dahulu. Ya biasalah,</p>
 
 ### Masukin Nama Sebelum Mengechat
-<img src="./readme_assets/enter_name.png" width="100%" />
-<img src="./readme_assets/enter_name_wrong.png" width="100%" />
+<img src="./readme_assets/enter_name.PNG" width="100%" />
+<img src="./readme_assets/enter_name_wrong.PNG" width="100%" />
 
 <p>
   Sebelum berinteraksi bersama teman teman di KasiColi (Aplikasi chat online), Biar lebih mudah sebut nya. Kalian harus masukin dulu nama ente nih.
@@ -23,7 +23,7 @@
 </p>
 
 ### Chat Realtime
-<img src="./readme_assets/chat__realtime.png" width="100%" />
+<img src="./readme_assets/chat__realtime.PNG" width="100%" />
 
 <p>
   Jika telah masuk, maka akan muncul "Rarabthari telah bergabung". itu akan diliat secara realtime di tiap browser teman KasiColi kita.
@@ -31,7 +31,7 @@
 </p>
 
 ### Chat Typing
-<img src="./readme_assets/chat__realtime_typing.png" width="100%" />
+<img src="./readme_assets/chat__realtime_typing.PNG" width="100%" />
 
 <p>
   Jikalau sedang mengetik maka, akan muncul di setiap browser teman KasiColi kita juga. Bilang si rarabthari sedang mengetik. Gitulah kira kira.
